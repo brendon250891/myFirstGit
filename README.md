@@ -19,8 +19,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ut rutrum 
 
 `$ step four`
 
-`$ step five`
-
 
 ### Course Content
 | Week | Content |
